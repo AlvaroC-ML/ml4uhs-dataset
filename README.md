@@ -39,8 +39,8 @@ plt.show()
 ```
 
 **Summary**
-* All keys are strings.
+* All keys are pickled strings.
 * To access simulation constants (porosity and permeability), use the simulation number as the key (e.g. "0").
 * To access a simulation variable (pressure and hydrogen saturation) at a given time, use the simulation number followed by that time with a hyphen in the middle (e.g. "0-60").
-* Simulation numbers range timefrom 0 to 999.
-* Simulation times go from 0 to 60. Time 0 symbolizes the step before any injection has taken place. Thus, the fields are empty. This time step is the same for every simulation, so effectively there are only  61,000 functional entries in the dataset.
+* Simulation numbers range from 0 to 999.
+* Simulation times go from 0 to 60, ends included. Time 0 symbolizes the step before any injection has taken place. Thus, the fields are empty. This time step is the same for every simulation, so effectively there are only  61,000 functional entries in the dataset.
