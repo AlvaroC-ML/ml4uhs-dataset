@@ -1,6 +1,6 @@
 # UHS Dataset
 
-This repositry stores a dataset intended for training machine learning models on the task of predicting underground hydrogen storage. It is the dataset used in the paper [OUR PAPER].
+This repositry stores a dataset intended for training machine learning models on the task of predicting underground hydrogen storage. It is the dataset used in the paper ''Deep Learning for Subsurface Flow: A Comparative Study of U-Net, Fourier Neural Operators, and Transformers in Underground Hydrogen Storage''.
 
 ## Brief description of data
 
