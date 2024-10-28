@@ -8,7 +8,7 @@ The dataset includes 60,000 training pairs. In particular it is divided among 10
 
 ## Accessing data
 
-The data is stored in LMDB format. The keys to the data have the following format. The following script gives an example of how to access it.
+The data can be downloaded [here](https://drive.google.com/drive/folders/1srqvMGkF0or4eLNA6L5b9H4S7uUS49Ir?usp=sharing). It is stored in LMDB format. The following script gives an example of how to access it.
 ```
 import pickle
 import lmdb
